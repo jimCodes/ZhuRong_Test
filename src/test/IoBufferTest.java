@@ -1,3 +1,4 @@
+package test;
 import java.nio.ByteBuffer;
 import java.nio.IntBuffer;
 
@@ -9,7 +10,7 @@ public class IoBufferTest {
 		ByteBuffer bb = ByteBuffer.allocate(BSIZE);
 		IntBuffer ib = bb.asIntBuffer(); // view buffer
 
-		// 存储int的数组
+		// 存储int的数�?
 		ib.put(new int[]{11, 42, 47, 99, 143, 811, 1016});
 
 		// 绝对位置读写

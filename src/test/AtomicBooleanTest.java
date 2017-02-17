@@ -1,3 +1,4 @@
+package test;
 
 public class AtomicBooleanTest implements Runnable {
 

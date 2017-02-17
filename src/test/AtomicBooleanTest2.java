@@ -1,3 +1,4 @@
+package test;
 import java.util.concurrent.TimeUnit;
 
 public class AtomicBooleanTest2 implements Runnable {
