@@ -1,4 +1,4 @@
-package myJava.lang;
+package myJava.lang.Cloneable;
 
 import java.lang.String;
 import java.lang.System;
