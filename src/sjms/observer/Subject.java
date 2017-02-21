@@ -1,6 +1,5 @@
 package sjms.observer;
 
-import java.util.Observer;
 
 /**
  * @author R.Zhu
