@@ -1,3 +1,4 @@
+package sjms.observer1;
 //package sjms.observer;
 //
 //public class WeatherStation {

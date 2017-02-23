@@ -1,4 +1,4 @@
-package sjms.observer;
+package sjms.observer1;
 
 /**
  * @author R.Zhu

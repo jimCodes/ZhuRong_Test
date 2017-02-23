@@ -3,6 +3,10 @@ package sjms.observer2;
 import sjms.observer2.imple.CurrentConditionsDisplay;
 import sjms.observer2.imple.WeatherData;
 
+/**
+ * @author R.Zhu
+ *
+ */
 public class WeatherStation {
 	public static void main(String[] args) {
 		WeatherData weatherData = new WeatherData();
