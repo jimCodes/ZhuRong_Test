@@ -1,4 +1,4 @@
-package NIO;
+package NIO.demo;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
